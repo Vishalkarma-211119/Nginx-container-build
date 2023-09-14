@@ -1,4 +1,4 @@
-# Nginx-container-build
+# Nginx-container-build:- **How to build docker image and docker container using terraform.**
 
 ◘ created a folder name is terraform-practice
 
