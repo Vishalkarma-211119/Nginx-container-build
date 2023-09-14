@@ -28,5 +28,5 @@
 
   $ terraform apply
 
-  Finally create a docker container and deployed it usin public ip
+  Finally create a docker container and deployed it using public ip
 
